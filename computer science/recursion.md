@@ -1,0 +1,2 @@
+recursion (العودية أو التكرار) means: **defining a problem in terms of itself**
+it is a messed up way to write programs that most of the time doesn't increase productivity but rather your headache, but hey at least it looks cool and big-brained way to do things
