@@ -7,3 +7,7 @@ a finite amount of time.*
 1- [[binary search]]
 
 2- [[Running Time]]
+
+3- [[Arrays and Linked lists]]
+
+4- [[Selection sort]]
