@@ -4,7 +4,7 @@ subject: array / strings
 difficulty: medium 
 ---
 
-```
+``` python
 class RandomizedSet:
 
   
