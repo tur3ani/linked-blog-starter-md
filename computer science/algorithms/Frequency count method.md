@@ -1,4 +1,4 @@
-it helps with finding the time complexity of [[algorithms]]
+it helps with finding the time complexity of [[algorithm]]
 
 # how do we count the time complexity?
 ## example:

@@ -1,6 +1,6 @@
 # Big O notation
 ## growth rate:
-[[algorithms]] have different growth rate than each other, _what do we mean by that?_
+[[algorithm]] have different growth rate than each other, _what do we mean by that?_
 lets take a search algorithm for a rocket landing location on the moon on one hand so if we take a list of 100 element as an example test and lets assume checking each element takes 1ms and we have a *10 seconds* time limit that we don't want to go above:
 [[binary search]] will solve it faster at around 7 ms meanwhile simple search will take 100ms 
 that means that [[binary search]] is around 15 times faster than simple search, so if we test case a list of 1 million elements, [[binary search]] will take around 30 ms, and since [[binary search]] is around 15 times more efficient then simple search will be :$$ 15 * 30 = 450ms $$
